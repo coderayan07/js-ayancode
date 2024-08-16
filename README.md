@@ -1,0 +1,2 @@
+# js-ayancode
+javascript code 
